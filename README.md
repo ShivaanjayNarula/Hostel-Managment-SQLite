@@ -1,6 +1,6 @@
 # Hostel Management System with SQLite
 
-A hostel management system that uses SQLite database instead of CSV files for better data management and security.
+It is the updated version of my Hostel Managment Project, which uses SQLite database instead of CSV files for better data management and security.
 
 ## Quick Start
 
