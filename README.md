@@ -43,7 +43,7 @@ make run
 
 ## Requirements
 
-- C++ compiler with C++11 support
+- C++ compiler with C++ 11 support
 - SQLite3 library (usually pre-installed on macOS/Linux)
 
 ## Installation (if needed)
