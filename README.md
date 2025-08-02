@@ -26,12 +26,9 @@ make run
 - `make clean` - Remove build files and database
 - `make help` - Show all commands
 
-## Default Login Credentials
+## Default Login Credential
 
 - **admin** / **password**
-- **Narula** / **1234**
-- **Krish** / **1234**
-- **Shivam** / **12345678**
 
 ## Features
 
